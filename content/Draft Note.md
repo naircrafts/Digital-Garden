@@ -1,8 +1,9 @@
 ---
 title: Draft Note Creation
 draft: false
-tags: []
+tags:
+  - "#testing"
 ---
-Test Notes
+Why is this not showing up. 
 
 
